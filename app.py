@@ -6,13 +6,13 @@ import plotly.express as px
 
 # Page Config
 st.set_page_config(
-    page_title="Job Market Dashboard",
+    page_title="skillscope-dashboard",
     page_icon="📊",
     layout="wide"
 )
 
 # Dashboard Title
-st.title("📊 Automated Job Market Analytics Dashboard")
+st.title("📊 Automated Skillscope Dashboard")
 
 st.markdown("Analyze trending technologies from live job postings.")
 
