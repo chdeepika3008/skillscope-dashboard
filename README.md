@@ -1,5 +1,5 @@
 
-# Automated Job Market Analytics Dashboard
+# skillscope-dashboard
 
 ## Project Overview
 This project analyzes live job postings and displays trending technical skills using an interactive dashboard built with Python and Streamlit.
@@ -19,7 +19,7 @@ This project analyzes live job postings and displays trending technical skills u
 
 ## Project Structure
 
-JobAnalyticsProject/
+SkillScopeProject/
 │
 ├── app.py
 ├── scraper.py
